@@ -18,3 +18,4 @@ ARGV.each { |day|
   }  
 }
 
+system "./wma2mp3"
